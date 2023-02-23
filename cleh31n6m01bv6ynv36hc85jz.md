@@ -1,4 +1,4 @@
-# GitHub Actions Part - 1
+# GitHub Actions Basics
 
 Automation is a key part of modern DevOps practices, allowing software development teams to quickly and efficiently develop, test, and deploy software. GitHub Actions is a powerful automation platform that can be used to automate tests, builds, and deployments.
 
